@@ -1,16 +1,47 @@
-### Kekuatan Super
-<a href=""><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
+Hai, saya gafar. saya adalah seorang Flutter Programmer, hobi saya bangun pagi memproduksi baris kode yang cantik. saya mencintai pekerjaan saya sebagaimana saya mencintai kehidupan saya. belajar hal baru adalah sebuah kegembiraan bagi saya dan merupakan tantangan yang harus saya taklukan, dan saya adalah peseluncur handal di internet, saya selalu menikmati itu :).
 
-### Familiar
-<a href=""><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+### Personal Project :
+  - <a href="https://github.com/gafar-code/kosan_app"> Aplikasi Kosan</a><br>
+  - <a href="https://github.com/gafar-code/muslim_app"> Aplikasi MuslimApp</a>
 
-### Database
-<a href=""><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+#### + Aplikasi Kosan App
+- Flutter 3.0 
+- Getx StateManagement
+- RESTFULL API
 
-### Dalam Perjalanan
-<a href=""><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+#### + Aplikasi Muslim App
+- Flutter 3.0 
+- Getx StateManagement
+- RESTFULL API
+- Android WebView
 
-### Project Gabut
-- <a href="https://github.com/gafar-code/kosan_app">aplikasi kosan online</a>
+### Skills Pemograman :
+- Dart
+- Php
+- Python
+- Kotlin
+- JavaScript
+
+### Database :
+- MySql 
+- MongoDb 
+- FireStore
+
+
+### Tools :
+- Vs StudioCode
+- Android Studio
+- PostMan
+- MongoCompas
+- Xampp
+
+### Soft Skill :
+- Troubleshooting
+- ATM Skills ( Amati Tiru Modifikasi )
+- Peseluncur handal
+- Linux Command Line
+
+### Operation System :
+- Linux
+- Windows
+- Mac Os
