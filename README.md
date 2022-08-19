@@ -26,6 +26,7 @@ Hai, saya gafar. saya adalah seorang Flutter Programmer, hobi saya bangun pagi m
 - MySql 
 - MongoDb 
 - FireStore
+- Postgresql
 
 
 ### Tools :
@@ -34,6 +35,8 @@ Hai, saya gafar. saya adalah seorang Flutter Programmer, hobi saya bangun pagi m
 - PostMan
 - MongoCompas
 - Xampp
+- DBeaver
+
 
 ### Soft Skill :
 - Troubleshooting
