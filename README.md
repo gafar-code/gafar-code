@@ -1,4 +1,4 @@
-Hai, saya gafar. saya adalah seorang Flutter Programmer, hobi saya bangun pagi memproduksi baris kode yang cantik. saya mencintai pekerjaan saya sebagaimana saya mencintai kehidupan saya. belajar hal baru adalah sebuah kegembiraan bagi saya dan merupakan tantangan yang harus saya taklukan, dan saya adalah peseluncur handal di internet, saya selalu menikmati itu :).
+Hello, my name is Gafar. I am a Flutter Programmer, and my hobby is to get up early and write beautiful lines of code. I enjoy my job as much as I enjoy my life. Learning new things is both a joy and a challenge for me, and I'm a good internet surfer, which I always enjoy:).
 
 ### Ongoing Project :
 - <a href=""> Aplikasi SimpleCak ( BLK Surabaya )</a><br>
@@ -11,18 +11,7 @@ Hai, saya gafar. saya adalah seorang Flutter Programmer, hobi saya bangun pagi m
   - <a href="https://github.com/gafar-code/kosan_app"> Aplikasi Kosan</a><br>
   - <a href="https://github.com/gafar-code/muslim_app"> Aplikasi MuslimApp</a>
 
-#### + Aplikasi Kosan App
-- Flutter 3.0 
-- Getx StateManagement
-- RESTFULL API
-
-#### + Aplikasi Muslim App
-- Flutter 3.0 
-- Getx StateManagement
-- RESTFULL API
-- Android WebView
-
-### Skills Pemograman :
+### Skills :
 - Dart
 - Php
 - Python
@@ -35,7 +24,6 @@ Hai, saya gafar. saya adalah seorang Flutter Programmer, hobi saya bangun pagi m
 - FireStore
 - Postgresql
 
-
 ### Tools :
 - Vs StudioCode
 - Android Studio
@@ -44,14 +32,8 @@ Hai, saya gafar. saya adalah seorang Flutter Programmer, hobi saya bangun pagi m
 - Xampp
 - DBeaver
 
-
-### Soft Skill :
-- Troubleshooting
-- ATM Skills ( Amati Tiru Modifikasi )
-- Peseluncur handal
-- Linux Command Line
-
 ### Operation System :
 - Linux
 - Windows
 - Mac Os
+
