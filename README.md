@@ -1,4 +1,4 @@
-Hello, my name is Gafar. I am a Flutter Programmer, and my hobby is to get up early and write beautiful lines of code. I enjoy my job as much as I enjoy my life. Learning new things is both a joy and a challenge for me, and I'm a good internet surfer, which I always enjoy:).
+Hai, saya gafar. saya adalah seorang Flutter Programmer, hobi saya bangun pagi memproduksi baris kode yang cantik. saya mencintai pekerjaan saya sebagaimana saya mencintai kehidupan saya. belajar hal baru adalah sebuah kegembiraan bagi saya dan merupakan tantangan yang harus saya taklukan, dan saya adalah peseluncur handal di internet, saya selalu menikmati itu :).
 
 ### Ongoing Project :
 - <a href=""> Aplikasi SimpleCak ( BLK Surabaya )</a><br>
@@ -23,6 +23,18 @@ Hello, my name is Gafar. I am a Flutter Programmer, and my hobby is to get up ea
 - MongoDb 
 - FireStore
 - Postgresql
+
+### State Management :
+- Bloc 
+- Getx
+- Provider
+- Riverpod
+
+### Code pattern :
+- Clean architecture
+- MVVM architecture
+- Atomic design
+- Reusable widget
 
 ### Tools :
 - Vs StudioCode
