@@ -33,8 +33,6 @@ Hai, saya gafar. saya adalah seorang Flutter Programmer, hobi saya bangun pagi m
 ### Code pattern :
 - Clean architecture
 - MVVM architecture
-- Atomic design
-- Reusable widget
 
 ### Tools :
 - Vs StudioCode
