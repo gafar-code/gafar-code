@@ -5,9 +5,9 @@ Hai, saya gafar. saya adalah seorang Flutter Programmer, hobi saya bangun pagi m
 - <a href=""> Aplikasi Addallal Ecommerce</a><br>
 
 ### Maintener at Project :
-  - <a href="https://play.google.com/store/apps/details?id=id.temancurhat.client&hl=in&gl=US"> Aplikasi Teman Curhat (konseling)</a><br>
+  - <a href="https://play.google.com/store/apps/details?id=id.temancurhat.client&hl=in&gl=US"> Aplikasi Teman Curhat ( konseling )</a><br>
   - <a href="https://play.google.com/store/apps/details?id=id.temancurhat.agent"> Aplikasi Agent Of happines </a><br>
-  - <a href="https://play.google.com/store/apps/details?id=com.bukivista.bv_app"> Aplikasi BV-GO (management property) </a><br>
+  - <a href="https://play.google.com/store/apps/details?id=com.bukivista.bv_app"> Aplikasi BV-GO ( management property ) </a><br>
 
 ### Personal Project :
   - <a href="https://github.com/gafar-code/kosan_app"> Aplikasi Kosan</a><br>
