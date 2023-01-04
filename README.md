@@ -14,16 +14,16 @@ Hai, saya gafar. saya adalah seorang Flutter Programmer, hobi saya bangun pagi m
   - <a href="https://github.com/gafar-code/muslim_app"> Aplikasi MuslimApp</a>
 
 ### Skills :
+- Flutter
 - Dart
-- Php
-- Python
+- Swift
 - Kotlin
-- JavaScript
+- python
 
 ### Database :
 - MySql 
 - MongoDb 
-- FireStore
+- Firestore
 - Postgresql
 
 ### State Management :
