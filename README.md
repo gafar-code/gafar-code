@@ -1,17 +1,7 @@
-🚀 Flutter Mobile App Engineer | Passionate about building seamless cross-platform experiences
-
-📱 Building delightful mobile applications with Flutter is my expertise. I thrive on creating stunning user interfaces and crafting smooth user experiences.
-
-🎯 Skilled in leveraging the power of Dart and Flutter framework, I develop robust and scalable mobile apps for both Android and iOS platforms. From idea to deployment, I ensure every aspect of the app is meticulously crafted.
-
-🔧 Proficient in Python, Dart, and Go, I bring versatility to my coding. I have a strong command over various databases like MySQL, PostgreSQL, MariaDB, and Firestore, enabling efficient data management.
-
-💡 With in-depth knowledge of Firebase SDK, Agora SDK, and Supabase SDK, I integrate powerful third-party services seamlessly, adding functionalities like real-time communication, authentication, and data synchronization to elevate the user experience.
-
-🏢 Experienced in implementing MVVM and Clean Architecture patterns, I build highly maintainable and scalable codebases. I pay close attention to code quality, ensuring clean and modular architectures that are easy to understand and extend.
-
-⚡ Proficient in state management techniques like GetX and BLoC, I efficiently manage complex application states, providing robust and reactive solutions.
-
-🌟 Let's collaborate and create exceptional Flutter apps together. Check out my repositories below to explore some of my previous work. Feel free to reach out for exciting projects or opportunities.
-
-✉️ Contact: gafartok@gmail.com
+<p align="left">
+<a href="https://github.com/hutomosaktikartiko">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hutomosaktikartiko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hutomosaktikartiko&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hutomosaktikartiko&theme=algolia"/>
+</a>
+</p>
